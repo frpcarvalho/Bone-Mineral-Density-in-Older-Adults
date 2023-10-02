@@ -2,7 +2,7 @@ Bone Mineral Density prediction in elderly Analysis
 This repository contains an analysis of the L1-4 bone mineral density using various attributes. The main objective is to create a predictive model for bone mineral density.
 
 Data
-The data used in this project comes from [He, Linfeng, 2022, "Bone mineral density", https://doi.org/10.7910/DVN/UDZIJS, Harvard Dataverse, . They contain information about [INSERT BRIEF DESCRIPTION OF THE DATA].
+The data used in this project comes from [He, Linfeng, 2022, "Bone mineral density", https://doi.org/10.7910/DVN/UDZIJS, Harvard Dataverse, . 
 
 Note: If the data have privacy restrictions or are too large to be included in the repository, replace the above description with instructions or links to obtain the data.
 
